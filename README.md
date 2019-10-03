@@ -12,5 +12,3 @@ Frontend with Bootstrap4 using theme <a href="https://startbootstrap.com/themes/
 Coded by <a href="https://moonmatt.cf">moonmatt</a>.
 I hope you will like this project.
 
-
-Live preview on <a href="https://moonmatt.cf/dndify">moonmatt.cf</a>
